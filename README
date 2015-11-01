@@ -3,3 +3,6 @@ pathway
 
 * http://oleb.net/blog/2014/04/understanding-uiscrollview/
 * https://github.com/ole/CustomScrollView
+
+* [bundle exec] rake pod:install
+* [bundle exec] rake pod:update
