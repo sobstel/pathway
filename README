@@ -6,3 +6,5 @@ pathway
 
 * [bundle exec] rake pod:install
 * [bundle exec] rake pod:update
+
+* missing: momentum scrolling
