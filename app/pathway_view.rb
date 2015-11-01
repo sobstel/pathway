@@ -2,12 +2,6 @@ class PathwayView < UIView
   # @property (nonatomic) CGSize contentSize;
   attr_accessor :contentSize
 
-  # @property (nonatomic) BOOL scrollVertical;
-  attr_accessor :scrollVertical
-
-  # @property (nonatomic) BOOL scrollHorizontal;
-  attr_accessor :scrollHorizontal
-
   #- (id)initWithFrame:(CGRect)frame
   def initWithFrame(rect)
     # self = [super initWithFrame:frame];

@@ -15,8 +15,4 @@ Motion::Project::App.setup do |app|
   # 9.1 not supported by rubymotion as yet
   app.deployment_target = "9.0"
   app.sdk_version = "9.0"
-
-  app.pods do
-    pod "pop"
-  end
 end

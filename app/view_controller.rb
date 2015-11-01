@@ -9,9 +9,6 @@ class ViewController < UIViewController
     # self.customScrollView.contentSize = CGSizeMake(self.view.bounds.size.width, 1000);
     @pathwayView.contentSize = CGSizeMake(view.bounds.size.width, 1000)
 
-    # self.customScrollView.scrollHorizontal = NO;
-    @pathwayView.scrollHorizontal = false
-
     # UIView *redView = [[UIView alloc] initWithFrame:CGRectMake(20, 20, 100, 100)];
     redView = UIView.alloc.initWithFrame(CGRectMake(20, 20, 100, 100))
 
